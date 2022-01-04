@@ -58,7 +58,7 @@ var data = [
 "status": "Completed" },
 
 {
-"project": "MemoryLeakDetector",
+"project": "Memory Leak Detector",
 "stack": ["clang"],
 "description": "Design and Implementation of Java-like Garbage Collector for C.",
 "website": "https://www.google.com",
