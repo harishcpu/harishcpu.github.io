@@ -55,6 +55,14 @@ var data = [
 "website": "https://www.google.com",
 "github": "https://github.com/harishkumar101/Flashcard-Application-for-Terminal",
 "image": "img/projects/flashcards.jpeg",
+"status": "Completed" },
+{
+"project": "MemoryLeakDetector",
+"stack": ["c"],
+"description": "Design and Implementation of Java-like Garbage Collector for C.",
+"website": "https://www.google.com",
+"github": "https://github.com/harishkumar101/MemoryLeakDetector",
+"image": "img/projects/memory_leak_final.png",
 "status": "Completed" }
 ];
 
